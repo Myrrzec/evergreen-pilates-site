@@ -261,3 +261,5 @@ blockquote cite { display: block; margin-top: 10px; font: 700 0.85rem/1 var(--sa
   .brand { font-size: 1rem; }
   .plan-dark { padding: 24px; }
 }
+
+.concept-note{background:#111;color:#fff;font:600 13px/1.45 system-ui,sans-serif;padding:10px 16px;text-align:center}

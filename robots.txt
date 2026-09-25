@@ -1,4 +1,2 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://evergreen-pilates-site.pages.dev/sitemap.xml
